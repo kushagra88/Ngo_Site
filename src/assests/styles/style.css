@@ -60,7 +60,7 @@ body
 }
 .main
 {
-    background-image: url("images/back.jpg");
+    background-image: url("../images/back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -182,7 +182,7 @@ body
 .product
 {
     float:left;
-    background-image: url("images/poor.jpg");
+    background-image: url("../images/poor.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -400,7 +400,7 @@ footer p
 .main_about
 {
     font-family: 'Trebuchet MS', sans-serif;
-    background-image: url("images/about.jpg");
+    background-image: url("../images/about.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -420,7 +420,7 @@ footer p
 .product_about
 {
     float:left;
-    background-image: url("images/about_back.jpg");
+    background-image: url("../images/about_back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -433,7 +433,7 @@ footer p
 .donate
 {
     font-family: 'Trebuchet MS', sans-serif;
-    background-image: url("images/donate_back.jpg");
+    background-image: url("../images/donate_back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -492,7 +492,7 @@ footer p
 {
     padding: 100px;
     font-family: 'Trebuchet MS', sans-serif;
-    background-image: url("images/about_back.jpg");
+    background-image: url("../images/about_back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
